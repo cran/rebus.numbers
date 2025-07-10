@@ -14,7 +14,7 @@ number_range(lo, hi, allow_leading_zeroes = FALSE, capture = FALSE)
 \item{allow_leading_zeroes}{A logical value. Are leading zeroes allowed to
 bulk the match up to the length of the number with the most digits?}
 
-\item{capture}{A logical value. See \code{\link{or}} for details.}
+\item{capture}{A logical value. See \code{\link[rebus.base]{or}} for details.}
 }
 \value{
 A character vector representing part or all of a regular expression.
@@ -31,4 +31,3 @@ number_range(-77, 77)
 number_range(-77, 77, capture = TRUE)
 number_range(-77, 77, capture = NA)
 }
-

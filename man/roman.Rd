@@ -2,10 +2,12 @@
 % Please edit documentation in R/roman.R
 \docType{data}
 \name{roman}
-\alias{ROMAN}
 \alias{roman}
+\alias{ROMAN}
 \title{Roman numerals}
-\format{An object of class \code{regex} (inherits from \code{character}) of length 1.}
+\format{
+An object of class \code{regex} (inherits from \code{character}) of length 1.
+}
 \usage{
 ROMAN
 
@@ -32,4 +34,3 @@ grepl(rx, x)
 \code{\link[utils]{as.roman}}
 }
 \keyword{datasets}
-

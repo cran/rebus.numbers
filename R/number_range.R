@@ -8,7 +8,7 @@ NULL
 #' @param hi An integer greater than or equal to \code{lo}.
 #' @param allow_leading_zeroes A logical value. Are leading zeroes allowed to
 #' bulk the match up to the length of the number with the most digits?
-#' @param capture A logical value. See \code{\link{or}} for details.
+#' @param capture A logical value. See \code{\link[rebus.base]{or}} for details.
 #' @return A character vector representing part or all of a regular expression.
 #' @examples
 #' number_range(0, 255)

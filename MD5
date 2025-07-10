@@ -1,10 +1,10 @@
-d7fb600af1d2825b317e5cc3a3e7880e *DESCRIPTION
+f1cf723dab8b059ad722a481a5e87922 *DESCRIPTION
 26bf5697011f390ca511fa36bc17d685 *NAMESPACE
 c43c4b3cbb54832b47b906933dbcab88 *R/imports.R
-669997f5f00fd82663a68f86fec45f2c *R/number_range.R
+4e390d741cf6c92eb36258cf77b4200a *R/number_range.R
 b4d8b9a61b17b120093eb1bcbee8e205 *R/roman.R
 de54567a5d8ddf16e997074dbfd5ee13 *README.md
-28912aefbba753b9f5c171116abbe5d8 *man/number_range.Rd
-876619582ee82d726d169b43460c95c9 *man/roman.Rd
+d0a2e630426969c4de68d8fcb86b07ae *man/number_range.Rd
+b18bb863610cc30896ba1211a84cfad5 *man/roman.Rd
 e2dca720156978705a80a2131be3ebbe *tests/testthat.R
 b0fb5abb33fb592a6e28b064cb0babeb *tests/testthat/test-number_range.R
